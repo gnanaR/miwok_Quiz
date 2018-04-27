@@ -19,6 +19,9 @@ public class ColorsActivity extends AppCompatActivity {
  * In our case we plan to have two text views with an image view
  * so we create a class called Word and use it in ArrayList type
  *
+ * *
+ *
+ *
  */
 
         ArrayList<Word> words = new ArrayList<Word>();
