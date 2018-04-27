@@ -21,7 +21,7 @@ public class ColorsActivity extends AppCompatActivity {
  *
  * *
  *
- *
+ *12
  */
 
         ArrayList<Word> words = new ArrayList<Word>();
